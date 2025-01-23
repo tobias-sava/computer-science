@@ -1,7 +1,7 @@
 # Problem Set 0
 # Name: Tobias Sava
-# Date: 1/22/2025
-# Time Spent: 10 seconds? xd
+# Date: 22/01/2025
+# Time Spent: 10 seconds
 
 # 1. At the top of your file and type: import numpy
 # 2. Now write a line that sets a variable named x to 5.
