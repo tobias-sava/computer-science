@@ -1,7 +1,7 @@
 # Problem Set 0
 # Name: Tobias Sava
 # Date: 23/01/2025
-# Time Spent: 
+# Time Spent: 30 seconds
 
 # Simple class exercise:
 
