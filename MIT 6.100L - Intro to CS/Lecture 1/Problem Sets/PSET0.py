@@ -18,5 +18,5 @@ z = x + y
 
 a = numpy.log2(z)
 
-# Resolved and self-checked. Correct!
+# Resolved and self-checked. Correct.
 
