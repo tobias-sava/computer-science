@@ -1,7 +1,7 @@
 # Problem Set 1A - Compound Interest
 # Name: Tobias Sava
 # Date: 23/01/2025
-# Time Spent: NULL
+# Time Spent: 10 minutes
 
 # Check PSET Materials folder > MIT6_100L_F22 for instructions.
 
@@ -43,5 +43,7 @@ while amount_saved < down_payment:
 print(months)
 
 # all 3 manual test cases passed!
+
+
 
 
