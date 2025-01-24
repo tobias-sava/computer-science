@@ -1,7 +1,7 @@
-# Problem Set 1B - Compound Interest
+# Problem Set 1B - Saving with a raise
 # Name: Tobias Sava
 # Date: 24/01/2025
-# Time Spent: 10 minutes
+# Time Spent: 2 minutes
 
 # Check PSET Materials folder > MIT6_100L_F22 for instructions.
 
