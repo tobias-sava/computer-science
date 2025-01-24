@@ -15,4 +15,4 @@ print("I can " + user_verb + " better than you!")
 
 print((user_verb + " ") * 4 + " " + user_verb) # Multiplied by 4 in order to prevent last character being occupied by a space.
 
-# Resolved and checked with tutor. Correct!
+# Resolved and checked with tutor. Correct.
