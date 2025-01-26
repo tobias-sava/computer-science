@@ -34,3 +34,5 @@ while i <= x:
   i += 1
 
 print(f"{x} factorial is {factorial}")
+
+# Self-checked, correct.
