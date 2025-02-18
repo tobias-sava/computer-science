@@ -6,6 +6,6 @@ This repository serves as both a personal learning archive and a showcase of my 
 
 Every "Lecture" folder has 2 sub-folders:
 
-1. Notes - Notes that I take while studying.
+1. Notes - Digital notes I take while studying.
 
 2. Problem Sets - Includes the PSET Materials folder (lecture overview/PSET instructions) and PSET code files.
