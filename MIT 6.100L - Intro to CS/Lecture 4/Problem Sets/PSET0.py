@@ -18,3 +18,5 @@ else:
     if cube < 0: # if cube is negative
         guess = -guess # since positive/negative roots are the same, im handling negative number scenarios by simply making the guess negative
     print("Cube root of" + str(cube) + " is " + str(guess)) # prints result (cube)
+
+test
