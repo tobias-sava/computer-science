@@ -1,7 +1,7 @@
 # Problem Set 0
 # Name: Tobias Sava
-# Date: 28/01/2025
-# Time Spent: NULL
+# Date: 24/02/2025
+# Time Spent: 5 minutes
 
 # Assume you are given a positive integer variable named Cube.
 # Write a piece of Python code that finds the cube root of Cube.
@@ -19,4 +19,4 @@ else:
         guess = -guess # since positive/negative roots are the same, im handling negative number scenarios by simply making the guess negative
     print("Cube root of" + str(cube) + " is " + str(guess)) # prints result (cube)
 
-test
+# test case passed successfully
