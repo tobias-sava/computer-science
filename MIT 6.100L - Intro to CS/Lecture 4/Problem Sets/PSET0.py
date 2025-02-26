@@ -3,9 +3,9 @@
 # Date: 24/02/2025
 # Time Spent: 5 minutes
 
-# Assume you are given a positive integer variable named Cube.
-# Write a piece of Python code that finds the cube root of Cube.
-# The code prints the cube root if Cube is a perfect cube or it prints error if Cube is not a perfect cube.
+# Assume you are given a positive integer variable named N.
+# Write a piece of Python code that finds the cube root of N.
+# The code prints the cube root if N is a perfect cube or it prints error if N is not a perfect cube.
 
 cube = int(input("Enter a positive integer: ")) # collecting int from user and storing in variable
 
