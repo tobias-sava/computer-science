@@ -15,7 +15,7 @@ numfound = False # making a flag (boolean variable) to trigger not found print s
 
 for snum in range (1, 11): # for the secret number in range 1 through 10
     if snum == secret: # if snum (1, 2, 3 etc.) is equal to our secret number:
-        print(snum + 'found') # printing result
+        print(snum, ' ', 'found') # printing result
         numfound = True # number has been found
     if numfound != True: # if number is not found:
         print('number not found, get better')
