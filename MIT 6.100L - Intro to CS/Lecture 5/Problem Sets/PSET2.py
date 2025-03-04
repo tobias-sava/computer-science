@@ -1,4 +1,4 @@
-# Problem Set 0
+# Problem Set 2
 # Name: Tobias Sava
 # Date: 02/03/2025
 # Time Spent: 15 minutes (this kind of beat me up, had to use documentation for string concatenation lol)
@@ -19,4 +19,4 @@ while counter < len(my_str): # creating while loop (while counter is less than t
 
 print(result)
 
-# code execution was successful, all test cases passed!
+# code execution was successful, all test cases passed

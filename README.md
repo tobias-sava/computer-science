@@ -8,4 +8,4 @@ Every "Lecture" folder has 2 sub-folders:
 
 1. Notes - Digital notes I take while studying.
 
-2. Problem Sets - Includes the PSET Materials folder (lecture overview/PSET instructions) and PSET code files.
+2. Problem Sets - Includes the PSET Materials folder (lecture overview/PSET instructions if it is the case) and PSET code files.

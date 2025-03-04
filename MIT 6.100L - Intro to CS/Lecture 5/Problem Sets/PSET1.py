@@ -1,4 +1,4 @@
-# Problem Set 0
+# Problem Set 1
 # Name: Tobias Sava
 # Date: 02/03/2025 (refined it a little on 03/02/2025)
 # Time Spent: 30 minutes
