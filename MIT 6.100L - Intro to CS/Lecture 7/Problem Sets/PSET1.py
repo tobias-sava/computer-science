@@ -21,6 +21,7 @@ def div_by(n, d):
 div_by(10, 3)
 div_by(195, 13)
 
+# Continue lecture at 33:26
 
 
 
