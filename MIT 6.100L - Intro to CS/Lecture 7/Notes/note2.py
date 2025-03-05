@@ -25,6 +25,12 @@ def is_even(i): # declaring function, function name, function params (separated 
 
 # Will still return True/False based on even/odd.
 
+# I am already familiar with functions so I will not explain calling functions but I will leave
+# an example below of the function above being called.
+
+is_even(3) # function name, paramter/s (containing needed data, in this case an int)
+
+
   
   
   
