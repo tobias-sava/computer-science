@@ -21,7 +21,6 @@
 n = 552
 count = 0 
 
-epsilon = 1 # there is no need for a smaller epsilon since we are trying to find an int
 low = 0
 high = 1000
 
