@@ -20,3 +20,5 @@ def dot_product(tA, tB):
 tA = (1, 2, 3)
 tB = (4, 5, 6)   
 print(dot_product(tA, tB)) # prints (3,32)
+
+# Solved
