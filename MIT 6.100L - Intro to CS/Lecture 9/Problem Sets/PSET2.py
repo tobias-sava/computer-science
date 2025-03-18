@@ -2,7 +2,7 @@
 # Name: Tobias Sava
 # Collaborators: None
 # Date: 11/03/2025
-# Time spent:
+# Time spent: 20 minutes
 
 import random
 import string
