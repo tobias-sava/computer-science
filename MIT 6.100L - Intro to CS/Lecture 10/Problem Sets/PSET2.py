@@ -7,7 +7,9 @@ def make_ordered_list(n):
     """
     ordered_list = []
 
-    for num in range(0, n + 1):
+    for num in range(n + 1)
         ordered_list.append(num)
 
     return ordered_list
+
+# Solved.
