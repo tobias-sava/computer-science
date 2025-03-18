@@ -8,7 +8,7 @@ def all_true(n, Lf):
     """
     # Your code here
 
-    for func in Lf:
+    for func in Lf: # Iterates through the list of functions.
         if not func(n): # If any function return False, all_true returns False immediately.
             return False
     return True # If all functions return True, all_true returns True.
