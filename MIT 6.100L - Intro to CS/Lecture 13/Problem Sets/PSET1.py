@@ -10,6 +10,9 @@ def pairwise_div(Lnum, Ldenom):
 
     # Your code here
 
+    assert len(Lnum) == len(Ldenom), "List lengths vary."
+    assert len(Lnum) != 0, len(Ldenom) != 0
+
     result = []
 
     for i in range(len(Lnum)):
