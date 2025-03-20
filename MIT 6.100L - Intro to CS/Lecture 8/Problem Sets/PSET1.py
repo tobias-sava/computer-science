@@ -1,7 +1,4 @@
-# Problem Set 1
-# Name: Tobias Sava
-# Date: 11/03/2025
-# Time Spent: 2 minutes
+# 11/03/2025
 
 def same_chars(s1, s2):
     """

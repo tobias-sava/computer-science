@@ -1,8 +1,4 @@
-# Problem Set 2, hangman.py
-# Name: Tobias Sava
-# Collaborators: None
-# Date: 11/03/2025
-# Time spent: 20 minutes
+# 11/03/2025
 
 import random
 import string

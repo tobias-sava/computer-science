@@ -1,7 +1,4 @@
-# Problem Set 1
-# Name: Tobias Sava
-# Date: 28/01/2025
-# Time Spent: NULL
+# 28/01/2025
 
 # Assume you are given a positive integer variable named N.
 # Write a piece of Python code that finds the cube root of N.

@@ -1,7 +1,4 @@
-# Problem Set 2
-# Name: Tobias Sava
-# Date: 02/03/2025
-# Time Spent: 15 minutes (this kind of beat me up, had to use documentation for string concatenation lol)
+# 02/03/2025
 
 # Assume you are given a string variable named my_str.
 # Write a piece of Python code that prints out a new string

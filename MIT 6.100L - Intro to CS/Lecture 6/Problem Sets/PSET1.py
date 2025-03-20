@@ -1,7 +1,4 @@
-# Problem Set 1
-# Name: Tobias Sava
-# Date: 04/03/2025 
-# Time Spent: 15 minutes
+# 04/03/2025
 
 
 # Assume you are given an integer 0 \<= N \\<= 1000. 

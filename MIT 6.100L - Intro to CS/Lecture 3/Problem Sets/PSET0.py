@@ -1,7 +1,4 @@
-# Problem Set 0
-# Name: Tobias Sava
-# Date: 25/01/2025
-# Time Spent: 1 minute
+# 25/01/2025
 
 # Assume you are given a positive integer variable named N. 
 # Write a piece of Python code that prints hello world on separate lines, N times. 

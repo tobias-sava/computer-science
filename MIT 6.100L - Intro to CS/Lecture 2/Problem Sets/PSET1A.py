@@ -1,7 +1,4 @@
-# Problem Set 1A - Compound Interest
-# Name: Tobias Sava
-# Date: 23/01/2025
-# Time Spent: 10 minutes
+# 23/01/2025
 
 # Check PSET Materials folder > MIT6_100L_F22 for instructions.
 

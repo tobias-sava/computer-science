@@ -1,4 +1,4 @@
-# 08/03/2025
+# 10/03/2025
 
 # Write a function first_unique_char(s) that takes a string s and returns the first non-repeating character. 
 # If all characters repeat, return None.

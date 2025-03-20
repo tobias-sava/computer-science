@@ -1,7 +1,4 @@
-# Problem Set 1
-# Name: Tobias Sava
-# Date: 11/03/2025
-# Time Spent: 5 minutes
+# 11/03/2025
 
 def dot_product(tA, tB):
     """

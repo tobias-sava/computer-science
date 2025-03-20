@@ -1,7 +1,4 @@
-# Problem Set 1
-# Name: Tobias Sava
-# Date: 05/03/2025 
-# Time Spent: 10 minutes
+# 10/03/2025
 
 # Write a code that satisfies the following specifications:
 

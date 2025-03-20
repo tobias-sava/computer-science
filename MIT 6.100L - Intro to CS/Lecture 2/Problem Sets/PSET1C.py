@@ -1,7 +1,5 @@
-# Problem Set 1C - Choosing an interest rate
-# Name: Tobias Sava
-# Date: 24/01/2025
-# Time Spent: 20 minutes
+# 24/01/2025
+
 
 # Check PSET Materials folder -> MIT6_100L_F22 for instructions.
 
