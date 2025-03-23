@@ -16,7 +16,9 @@ def keys_with_value(aDict, target):
         if v == target:
             kList.append(k)
 
-    return kList
+    kList.sort() # Sorting the list.
+
+    return kList # Returning the sorted list.
 
 # Examples:
 aDict = {1:2, 2:4, 5:2}
