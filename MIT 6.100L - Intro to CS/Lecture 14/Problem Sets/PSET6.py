@@ -13,11 +13,11 @@ def all_positive(d):
 
     for k, v in d.items():
         if sum(v) > 0:
-            positive_keys.append(k)
+            positive_keys.append(k) # Appending the key of positive list sum to positive_keys list.
     
-    positive_keys.sort()
+    positive_keys.sort() # Sorting the keys.
 
-    return positive_keys
+    return positive_keys # Returning final result (sorted keys).
 
 
 # Examples:
