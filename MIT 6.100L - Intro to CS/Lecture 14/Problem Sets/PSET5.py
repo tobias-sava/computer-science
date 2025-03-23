@@ -10,6 +10,14 @@ def keys_with_value(aDict, target):
     """
     # Your code here  
 
+    kList = [] # Init empty list.
+
+    for k, v in aDict.items():
+        if v == target:
+            kList.append(k)
+
+    return kList
+
 # Examples:
 aDict = {1:2, 2:4, 5:2}
 target = 2   
