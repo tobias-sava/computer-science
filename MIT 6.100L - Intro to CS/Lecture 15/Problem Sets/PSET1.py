@@ -9,7 +9,7 @@ def power_recur(n, p):
         return n
     
     else:
-        return n*power_recur(n, p - 1)
+        return n * power_recur(n, p - 1)
     
 print(power_recur(3, 4)) # Prints 81
 
