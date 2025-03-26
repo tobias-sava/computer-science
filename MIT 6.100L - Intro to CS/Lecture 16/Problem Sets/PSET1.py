@@ -13,3 +13,5 @@ def fib_efficient(n, d): # n number, d dict
     
 d = {1:1, 2:1}
 print(fib_efficient(6, d))
+
+# Solved.
