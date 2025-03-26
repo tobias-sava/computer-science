@@ -20,19 +20,19 @@ d = {}
 
 def score_count_eff(x, d):
 
-    if x in d:
+    if x in d: # if x already calculated and stored in dict
         return d[x]
-    elif x == 0:
+    elif x == 0: # first base case
         return 1
     elif x == 1:
         return 1
     elif x == 2:
         return 2
-    elif x == 3:
+    elif x == 3: # last base case
         return 3
-    else:
+    else: # recursive calc
         ans = score_count_eff(x-1, d) + score_count_eff(x-2, d) + score_count_eff(x-3, d)
         d[x] = ans
         return ans
 
-print(score_count_eff(5, d))  # Example call
+print(score_count_eff(5, d))  # returns 11
