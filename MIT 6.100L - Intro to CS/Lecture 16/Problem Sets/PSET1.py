@@ -4,7 +4,7 @@
 
 def fib_efficient(n, d): # n number, d dict
 
-    if n in d: # checking n has already been calculated
+    if n in d: # checking if n has already been calculated
         return d[n] # if calculated, return n
     else:
         ans = fib_efficient(n-1, d) + fib_efficient(n-2, d)
