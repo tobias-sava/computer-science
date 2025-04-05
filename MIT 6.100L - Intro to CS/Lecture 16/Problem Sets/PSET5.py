@@ -7,8 +7,10 @@ def total_len_recur(L):
     else:
         return total_len_recur(L[1:]) + len(L[0]) 
         # calling function recursively and removing first element while also adding its length
+
 test = ["ab", 'c', "defgh"]
 print(total_len_recur(test))
+
 
 def in_list(L, e):
     
