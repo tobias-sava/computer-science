@@ -9,7 +9,7 @@ def in_lists_of_list(L, e):
     Hint, the in operator is useful he, i.e. e in something
     """
 
-    print(e, L) # debug
+    print(e, L) # debug print
 
     if len(L) == 0: # base case
         return False
