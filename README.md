@@ -1,5 +1,9 @@
-OSSU BSc Computer Science
+# OSSU: Computer Science
 
-This repository tracks my journey through the OSSU Computer Science program, an open-source curriculum offering a university-level computer science education. 
+The Open Source Society University curriculum offers a comprehensive computer science education using high-quality materials from top institutions like Harvard, MIT, Princeton, and Stanford. 
 
-This repository serves as both a personal learning archive and a showcase of my dedication to mastering computer science.
+This repository tracks my progress through the curriculum, including completed courses, notes, and projects.
+
+## Source
+
+[OSSU Computer Science](https://cs.ossu.dev)
