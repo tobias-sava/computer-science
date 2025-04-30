@@ -17,6 +17,8 @@
     # + Additional behaviours
     # Override behaviours
 
+import random
+
 class Animal(object):
     def __init__(self, age):
         self.age = age
@@ -74,7 +76,7 @@ class Person(Animal):
         if fname not in self.friends:
             self.friends.append(fname)
     
-    def speak(self)
+    def speak(self):
         print("hello")
 
     def age_diff(self, other):
@@ -107,4 +109,47 @@ c1.set_name("furball")
 c2 = Cat(1)
 c2.set_name("fluffsphere")
 
-# 56:54
+class Student(Person):
+    def __init__(self, name, age, major=None):
+        Person.__init__(self, name, age)
+    
+    def change_major(self, major):
+        self.major = major
+    
+    def speak(self):
+        r = random.random()
+        if r < 0.25:
+            print("i have homework")
+        elif 0.25 <= r < 0.5:
+            print("i need sleep")
+        elif 0.5 <= r < 0.75:
+            print("i should eat")
+        else:
+            print("im still zooming")
+
+    def __str__(self):
+        return "student:", + str(self.name) + ":" + str(self.age) + ":" + str(self.major)
+
+
+#
+
+
+class Rabbit(Animal):
+
+    tag = 1 # variable shared across class instances
+
+    def __init__(self, age, parent1=None, parent2=None):
+        Animal.__init__(self, age)
+        self.parent1 = parent1
+        self.parent2 = parent2
+        self.rid = Rabbit.tag # rabbit obj identifier
+        Rabbit.tag += 1 # keeping track of how many rabbit objs are created
+
+    def get_rid(self):
+        return str(self.rid)
+
+r1 = Rabbit(8) # Rabbit object identifier (rid) 1
+r2 = Rabbit(6) # rid 2
+r3 = Rabbit(10) # rid 3
+
+print("rid:" + r1.get_rid())
