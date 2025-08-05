@@ -6,4 +6,3 @@ Link: https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-usin
 - Notes for this lecture have been taken on paper.
 
 - Problem sets have been resolved and corrected.
-
