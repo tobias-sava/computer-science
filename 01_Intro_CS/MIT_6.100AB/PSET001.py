@@ -16,5 +16,3 @@ elif n1 or n2 >= 1:
 
 else:
     print("neither")
-
-# All test cases passed.
