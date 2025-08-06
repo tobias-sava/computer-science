@@ -1,4 +1,4 @@
-# 08/05/2025
+# 05/08/2025
 
 # Branching 2 Assume you're given 2 int variables: n1 and n2. 
 # Print "both" if they both have a 0 as one of their digits, "only one" if only one of them has a 0, and "neither" if neither has a 0.
