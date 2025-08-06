@@ -1,6 +1,8 @@
 # 06/08/2025
 
-# Branching 3 [QUIZ-LEVEL] Assume you're given 2 int variables: n1 and n2. 
+# Branching 3 [QUIZ-LEVEL] 
+
+# Assume you're given 2 int variables: n1 and n2. 
 # If both are positive, print the sum of the first digits in each. 
 # If both are negative, print the sum of the last digits in each. 
 # If only one is positive and the other is not, print the result when you divide the last digit by the first digit of the positive n.
